@@ -1,0 +1,10 @@
+﻿  Menu.cpp
+  Outils.cpp
+E:\Biblio5thV\Biblio5thV\Outils.cpp(232,24): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Biblio5thV\Biblio5thV\Outils.cpp(1007,24): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Biblio5thV\Biblio5thV\Outils.cpp(1012,24): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Biblio5thV\Biblio5thV\Outils.cpp(1019,24): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Biblio5thV\Biblio5thV\Outils.cpp(1032,24): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Biblio5thV\Biblio5thV\Outils.cpp(1045,24): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Biblio5thV.vcxproj -> E:\Biblio5thV\Debug\Biblio5thV.exe
